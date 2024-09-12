@@ -66,6 +66,11 @@ a:hover {
   cursor: default;
 }
 
+.name-logo {
+  height: 7rem;
+  cursor: pointer;
+}
+
 /* HAMBURGER MENU */
 
 #hamburger-nav {

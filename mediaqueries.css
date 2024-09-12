@@ -13,6 +13,9 @@
   #desktop-nav {
     display: none;
   }
+  .name-logo {
+    height: 5rem;
+  }
   #hamburger-nav {
     display: flex;
   }
@@ -77,6 +80,9 @@
   }
   .logo {
     font-size: 1.5rem;
+  }
+  .name-logo {
+    display: none;
   }
   .nav-links {
     flex-direction: column;
