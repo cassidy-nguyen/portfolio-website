@@ -68,6 +68,9 @@ a:hover {
 
 .name-logo {
   height: 7rem;
+}
+
+.name-logo:hover {
   cursor: pointer;
 }
 
