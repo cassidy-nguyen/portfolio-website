@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: rgb(239, 231, 218);
 }
 
 html {
@@ -46,16 +47,16 @@ nav {
 }
 
 a {
-  color: black;
+  color: rgb(179, 144, 122);
   text-decoration: none;
   text-decoration-color: white;
 }
 
 a:hover {
-  color: grey;
+  color: rgb(191, 163, 142);
   text-decoration: underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+  text-decoration-color: rgb(191, 163, 142);
 }
 
 .logo {
@@ -205,6 +206,7 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  color: rgb(170, 168, 145);
 }
 
 #socials-container {
